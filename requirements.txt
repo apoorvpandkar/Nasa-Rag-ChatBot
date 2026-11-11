@@ -1,0 +1,11 @@
+streamlit
+pandas
+openai
+chromadb
+ragas
+langchain-openai
+langchain-community==0.4.1
+sacrebleu
+rouge_score
+rapidfuzz
+pysqlite3-binary; platform_system=="Linux"

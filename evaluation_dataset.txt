@@ -1,0 +1,89 @@
+NASA RAG Chat - Evaluation Dataset
+====================================
+Sample questions used for testing the system, along with expected responses
+based on the NASA mission documents indexed in ChromaDB.
+
+================================================================================
+QUESTION 1 (Apollo 11 - Mission Overview)
+================================================================================
+Q: What was the Apollo 11 mission and when did it take place?
+
+Expected Response:
+The Apollo 11 mission was the first manned mission to land on the Moon and return safely to Earth. It took place in July 1969 as part of NASA's Apollo program. The mission aimed to land astronauts on the lunar surface, conduct experiments, collect samples, and return them safely to Earth. Apollo 11 launched on July 16, 1969, and astronauts Neil Armstrong, Buzz Aldrin, and Michael Collins were part of the mission. Neil Armstrong and Buzz Aldrin made history by becoming the first humans to walk on the Moon on July 20, 1969.
+
+================================================================================
+QUESTION 2 (Apollo 11 - Flight Plan Details)
+================================================================================
+Q: Describe the Apollo 11 flight plan and how it was distributed.
+
+Expected Response:
+
+The Apollo 11 flight plan was a detailed document outlining the timeline, procedures, and activities planned for the mission. It included information on spacecraft maneuvers, crew activities, experiments, lunar landing procedures, and return to Earth.
+
+The Apollo 11 flight plan was distributed to various tracking stations and mission support centers involved in the mission. For example, a final version of the Apollo 11 Flight Plan was sent to the Honeysuckle Creek Tracking Station in Canberra, Australia, just five days before the launch. This specific copy was designated for the Telemetry (TLM) and Computer sections at the tracking station.
+
+The flight plan was an essential tool for mission control and the astronauts to ensure that all activities were conducted according to the planned timeline and procedures. It helped coordinate the complex series of events from launch to landing and return.
+
+If you need more specific details on the distribution or contents of the Apollo 11 flight plan, further analysis of the available documents related to the mission can provide more insights.
+
+================================================================================
+QUESTION 3 (Apollo 11 - Launch Countdown)
+================================================================================
+Q: What happened during the Apollo 11 launch countdown?
+
+Expected Response:
+
+During the Apollo 11 launch countdown, several significant events and procedures took place to prepare the spacecraft for liftoff. Here are some key moments from the Apollo 11 launch countdown based on the provided NASA documents:
+
+Propellant Tank Pressurization: The countdown included the pressurization of the propellant tanks in the Apollo 11 vehicle to prepare for launch. This process ensured that the spacecraft's fuel systems were ready for liftoff.
+
+Monitoring Red-Line Values: The launch team in the control center monitored critical parameters such as temperatures and pressures, known as red-line values. Any deviations from the planned tolerances were called out to ensure the safety and readiness of the spacecraft.
+
+Astronaut Activities: The astronauts in the spacecraft were busy performing final switch settings and preparations for liftoff. Commander Neil Armstrong was involved in setting up the stabilization and control system before the launch.
+
+Countdown Updates: Throughout the countdown, the Public Affairs Officer (PAO) provided updates on the status of the launch, including mentioning the distance to the Moon at liftoff and the countdown milestones reached.
+
+Thrust Verification: A key moment during the countdown was receiving the commit signal, indicating that the thrust levels were proper and acceptable for liftoff. Once this signal was received, the hold-on arms were released, and the vehicle was ready to launch.
+
+These events and procedures during the Apollo 11 launch countdown were crucial in ensuring a successful liftoff and the beginning of the historic mission to land humans on the Moon. For more detailed information on the Apollo 11 launch countdown, you can refer to the NASA documents in the Apollo 11 mission category.
+
+================================================================================
+QUESTION 4 (Apollo 13 - Mission Communications)
+================================================================================
+Q: How were communications structured during the Apollo 13 mission?
+
+Expected Response:
+
+During the Apollo 13 mission, communications were structured with specific call signs assigned to different components of the spacecraft and crew members. Here is an overview of how communications were structured during the Apollo 13 mission:
+
+Call Signs:
+
+The call sign "Apollo 13" was used for all phases when only the Command/Service Module (CSM) was manned.
+When both the CSM and Lunar Module (LM) were manned, the call signs were "Odyssey" for the CSM and "Aquarius" for the LM.
+During lunar surface operations, the call signs for the Commander (CDR) and Lunar Module Pilot (LMP) were the individual crew members' first names.
+Voice Calls:
+
+Voice calls during the mission were assigned according to station operating procedures specified for Apollo 13. This helped in identifying the source of communication and maintaining clarity during exchanges.
+Transcription Management:
+
+The transcription of communications tapes during the Apollo 13 mission was managed by David M. Goldenbaum from the Test Division, Apollo Spacecraft Program Office. This ensured that communication records were accurately documented and archived for analysis.
+These structured communication protocols, including specific call signs and voice call assignments, were essential for maintaining effective communication between the spacecraft and mission control throughout the Apollo 13 mission. For more detailed information on the communication structure and procedures during Apollo 13, further examination of the technical documentation related to the mission would provide additional insights.
+
+================================================================================
+QUESTION 5 (Challenger - Crew Members)
+================================================================================
+Q: Who were the crew members of the Challenger STS-51L mission?
+
+Expected Response:
+
+The crew members of the Challenger STS-51L mission, as mentioned in the provided NASA documents, were:
+
+Commander: Francis Dick Scobie
+Pilot: Michael Smith
+Mission Specialist: Judy Resnick
+Mission Specialist: Ron McNair
+Payload Specialist: Greg Jarvis
+Payload Specialist: Krista McAuliffe
+These astronauts were part of the Challenger STS-51L mission, which tragically ended in the Space Shuttle Challenger disaster on January 28, 1986. The crew of STS-51L was honored for their bravery and dedication to space exploration.
+
+================================================================================

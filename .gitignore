@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.log
+chroma_db_openai/
+.claude/
+cmd.txt
